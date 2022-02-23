@@ -1,0 +1,658 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain prayers and graces newly added, to be used of scholars, both before and after noon / compiled by R.C.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35267</idno>
+            <idno type="STC">Wing C7370</idno>
+            <idno type="STC">ESTC R20737</idno>
+            <idno type="EEBO-CITATION">12404508</idno>
+            <idno type="OCLC">ocm 12404508</idno>
+            <idno type="VID">61339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35267)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61339)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 275:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain prayers and graces newly added, to be used of scholars, both before and after noon / compiled by R.C.</title>
+                  <author>Crowley, Robert, 1518?-1588.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Certain prayers and graces were compiled by Robert Crowley and included in Francis Seager's "The schoole of vertue." The names of Seager and Crowley appear on verso of t.p. of 1677 edition. Cf. BM.</note>
+                  <note>Place and date of publication from BM.</note>
+                  <note>Advertisement: p. [16].</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayers.</term>
+               <term>Grace at meals.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prayers">
+            <pb facs="tcp:61339:1"/>
+            <head>Certain Prayers and Graces, newly added, to be uſed of Scholars, both before and after noon.</head>
+            <div type="part">
+               <byline>Compiled by R. C.</byline>
+               <lg>
+                  <l>NOw that the day ſtar doth appear,</l>
+                  <l>to God devoutly let us call,</l>
+                  <l>That in the déeds of day-light clear,</l>
+                  <l>he kéeps us from misfortunes all.</l>
+               </lg>
+               <lg>
+                  <l>Let him temper our tatling tongues,</l>
+                  <l>by bridling them after his will,</l>
+                  <l>Leſt horrour vile break us among,</l>
+                  <l>with words of ſtrife, that ſound full ill.</l>
+               </lg>
+               <lg>
+                  <l>Let him cover our ſight alſo,</l>
+                  <l>féeding it as he knows beſt,</l>
+                  <l>Leſt we delight in vain things tho,</l>
+                  <l>and ſo draw them into our breaſt.</l>
+               </lg>
+               <lg>
+                  <l>Let all the ſecrets of our hearts</l>
+                  <l>be pure and clean from filthineſs;</l>
+                  <l>Let ſlothful ſluggiſhneſs depart</l>
+                  <l>from us that ſtudy do profeſs.</l>
+               </lg>
+               <lg>
+                  <l>Let mean dyet of drink and meat</l>
+                  <l>beat down pride of filthy fleſh,</l>
+                  <l>Leſt raging in that filthy heat,</l>
+                  <l>we loſe of youth the flowers freſh.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:61339:1"/>
+                  <l>Theſe things we crave that when the day</l>
+                  <l>by courſe of kind away ſhall paſs,</l>
+                  <l>And night ſhall come, then ſing we may</l>
+                  <l>in praiſe of him, to our ſolace.</l>
+               </lg>
+               <lg>
+                  <l>And that we may ſtill bear in mind,</l>
+                  <l>in what works we the day ſhall ſpend,</l>
+                  <l>Let us record what words we find</l>
+                  <l>in Books that were made to that end.</l>
+               </lg>
+               <lg>
+                  <l>In <hi>Exodus,</hi> and other moe,</l>
+                  <l>that written were by God's Elect,</l>
+                  <l>We find Gods Precepts written ſo</l>
+                  <l>as after follows in effect.</l>
+               </lg>
+               <lg>
+                  <l>When <hi>Jacob's</hi> Séed in Wilderneſs</l>
+                  <l>could not abide Gods voice to hear,</l>
+                  <l>Then <hi>Moſes</hi> did himſelf addreſs,</l>
+                  <l>for them before God to appear.</l>
+               </lg>
+               <lg>
+                  <l>And at the Lords Commandement</l>
+                  <l>he took to him his Servant true:</l>
+                  <l>Vp to <hi>Mount Horeb</hi> then they went,</l>
+                  <l>to learn this Law which doth enſue.</l>
+               </lg>
+               <lg>
+                  <l>Which Law God writ in Tables twain.</l>
+                  <l>of ſtone ſo hard which might laſt long,</l>
+                  <l>And would the ſame ſhould ſtill remain</l>
+                  <l>among his folks both old and young.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:61339:2"/>
+                  <l>And firſt, to make their mind attend,</l>
+                  <l>he ſaid (O Iſrael give ear)</l>
+                  <l>I am the Lord omnipotent,</l>
+                  <l>whom thou muſt ſerve, obey and fear.</l>
+               </lg>
+               <lg>
+                  <l>For I thée brought from careful thrall,</l>
+                  <l>wherein thou waſt in <hi>Egypt</hi> long,</l>
+                  <l>And there could find no eaſe at all,</l>
+                  <l>but wert inforc'd to ſuffer wrong.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt have therefore in my ſight</l>
+                  <l>none other Gods but only me:</l>
+                  <l>For I alone have power and might,</l>
+                  <l>And all the reſt vain Idols be.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt not caſt out, paint or draw,</l>
+                  <l>for thée, the Form of any thing</l>
+                  <l>In heaven or earth, or ſtand in awe,</l>
+                  <l>of ought that is of mans making.</l>
+               </lg>
+               <lg>
+                  <l>For why? I am a jealous God,</l>
+                  <l>and will my honour to no one give:</l>
+                  <l>I beat the Children with ſharp Rod,</l>
+                  <l>that like their wicked Parents live:</l>
+               </lg>
+               <lg>
+                  <l>And that to thrée or four diſcents,</l>
+                  <l>in ſuch of them as do hate me,</l>
+                  <l>And kéep not my Commandements,</l>
+                  <l>but in their doings wicked be.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:61339:2"/>
+                  <l>But ſuch as love even as they ſhould</l>
+                  <l>me and my Laws, and them obſerve,</l>
+                  <l>I ſhew mercy a thouſand fold,</l>
+                  <l>and them from evil I preſerve.</l>
+               </lg>
+               <lg>
+                  <l>Take not in vain Gods holy Name,</l>
+                  <l>but uſe it with all reverence:</l>
+                  <l>For why? the Lord doth all ſuch blame</l>
+                  <l>as herein doth commit offence.</l>
+               </lg>
+               <lg>
+                  <l>Remember that thou holy keep</l>
+                  <l>the day of reſt, as God doth will.</l>
+                  <l>Six days thou ſhalt apply thy work,</l>
+                  <l>and do all things that be not ill.</l>
+               </lg>
+               <lg>
+                  <l>But the ſeventh day is the Lords reſt,</l>
+                  <l>wherein no vile work may be done,</l>
+                  <l>By thee, thy Child, thy ſlave or beaſt,</l>
+                  <l>or ſtranger that with thee doth woon.</l>
+               </lg>
+               <lg>
+                  <l>For in ſix days the Lord did frame</l>
+                  <l>the heaven, the earth, the creatures all.</l>
+                  <l>The ſeventh he ceaſt, and bleſt the ſame,</l>
+                  <l>as time for his on him to call.</l>
+               </lg>
+               <lg>
+                  <l>All theſe Precepts the Lord did write</l>
+                  <l>on the firſt Table made of ſtone,</l>
+                  <l>And would they ſhould in him delight,</l>
+                  <l>that for his love, ſerve him alone.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:61339:3"/>
+                  <l>The ſecond Table follows then,</l>
+                  <l>wherein the Lord inſtructeth us,</l>
+                  <l>How to behave us towards all men,</l>
+                  <l>and in the ſame is written thus.</l>
+               </lg>
+               <lg>
+                  <l>Vnto thy Parents honour give</l>
+                  <l>as Gods Commandements will thée,</l>
+                  <l>That thou long days and good maiſt live</l>
+                  <l>on earth where thine abode ſhall be.</l>
+               </lg>
+               <lg>
+                  <l>Murder no man by word or déed,</l>
+                  <l>with tongue or ſword or other thing:</l>
+                  <l>Do nought from whence hate may procéed,</l>
+                  <l>for Murder out of hate doth ſpring.</l>
+               </lg>
+               <lg>
+                  <l>Avoid all foul Adultery,</l>
+                  <l>and all things that thereto belong,</l>
+                  <l>All filthy thoughts and luſts of eye,</l>
+                  <l>and all unchaſte talk of the tongue.</l>
+               </lg>
+               <lg>
+                  <l>Take not by fraud nor by rapine</l>
+                  <l>the things that others do poſſeſs:</l>
+                  <l>For ſo to take what is not thine,</l>
+                  <l>before God is great wickedneſs.</l>
+               </lg>
+               <lg>
+                  <l>Againſt no man falſe witneſs be,</l>
+                  <l>but teſtifie the truth alway:</l>
+                  <l>For God thy ſecret thoughts doth ſée,</l>
+                  <l>and will thée judg at the laſt day.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:61339:3"/>
+                  <l>Thou ſhalt not in thy heart deſire</l>
+                  <l>thy Neighbours Wife at will to have:</l>
+                  <l>His houſe nor field don't thou require,</l>
+                  <l>no nor his ſervant, nor his ſlave.</l>
+               </lg>
+               <lg>
+                  <l>Be not deſirous to receive</l>
+                  <l>his Ox, or Aſs, or any Beaſt,</l>
+                  <l>That he is not willing to leave,</l>
+                  <l>nor ought that by him is poſſeſt.</l>
+               </lg>
+               <lg>
+                  <l>Theſe be the Laws that God did give</l>
+                  <l>to <hi>Jacobs</hi> ſéed in Wilderneſs,</l>
+                  <l>And would that they therein ſhould live,</l>
+                  <l>that will an endleſs life poſſeſs.</l>
+               </lg>
+               <lg>
+                  <l>But ſuch that will this Law neglect,</l>
+                  <l>and walk after fleſhly deſire,</l>
+                  <l>The Lord at laſt will them reject,</l>
+                  <l>to dwell in everlaſting fire.</l>
+               </lg>
+               <lg>
+                  <l>The Lord God for his mercies ſake</l>
+                  <l>guide us in his moſt perfect way,</l>
+                  <l>That we may ſcape the fiery Lake</l>
+                  <l>and live with him in Bliſs for aye.</l>
+               </lg>
+               <lg>
+                  <l>That theſe things may be granted us,</l>
+                  <l>at this time henceforth alway.</l>
+                  <l>In the name of our Lord Ieſus,</l>
+                  <l>to God the Father let us pray.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:61339:4"/>
+                  <l>OVR Father which in Heaven art,</l>
+                  <l>and doſt raign over all,</l>
+                  <l>Thy holy Name be ſanctified</l>
+                  <l>amongſt both great and ſmall.</l>
+               </lg>
+               <lg>
+                  <l>Thy Kingdom come, wherein we may</l>
+                  <l>no wicked thing abide,</l>
+                  <l>Nor ought that doth ſet up it ſelf,</l>
+                  <l>or is puft up with pride.</l>
+               </lg>
+               <lg>
+                  <l>Thy will be done upon the carth,</l>
+                  <l>like as in Heaven above;</l>
+                  <l>Where all the Creatures work thy will,</l>
+                  <l>becauſe they do thée love.</l>
+               </lg>
+               <lg>
+                  <l>Give us this day, our daily Bread,</l>
+                  <l>which néed doth make us crave:</l>
+                  <l>For why? our ſouls and bodies both</l>
+                  <l>of thée their food muſt have.</l>
+               </lg>
+               <lg>
+                  <l>To ask forgiveneſs of our ſins,</l>
+                  <l>dear Father we are bold,</l>
+                  <l>As we forgive wrongs as are done</l>
+                  <l>among us manifold.</l>
+               </lg>
+               <lg>
+                  <l>Do thou not us to tryal bring,</l>
+                  <l>for we are weak indéed:</l>
+                  <l>But when that ſin ſhall us aſſault,</l>
+                  <l>deliver us with ſpéed.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:61339:4"/>
+                  <l>For why? the Kingdom, and the power,</l>
+                  <l>and glory every whit,</l>
+                  <l>Is thine, and ſhall be evermore:</l>
+                  <l>all Souls ſay, <hi>So be it.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>† O Lord, preſerve our King and Quéen</l>
+                  <l>with all his Royal Train:</l>
+                  <l>But chiefly ſuch as zealous be</l>
+                  <l>the Goſpel to maintain:</l>
+                  <l>Which grant, O God, till day of Doom,</l>
+                  <l>in <hi>Brittain</hi> may remain.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Prayers for Mid-day.</head>
+               <l>NOw that we have the morning ſpent</l>
+               <l>in Learning honeſt exerciſe,</l>
+               <l>Leſt Natures Bow being over bent,</l>
+               <l>our bodies let us not deſpiſe:</l>
+               <l>Let us therefore take at God's hand</l>
+               <l>ſuch nouriſhment as he doth give</l>
+               <l>To féed his folk by Sea and Land,</l>
+               <l>without the which we cannot live.</l>
+               <l>And that we may avoid exceſs,</l>
+               <l>to him for grace now let us call:</l>
+               <l>For ſurfeit doth the wit oppreſs,</l>
+               <l>and drowneth good things natural:</l>
+               <l>And more beſides, the gift of God</l>
+               <l>if we abuſe, unto our ſhame,</l>
+               <l>We worthy are to féel the Rod,</l>
+               <l>for ſuch diſhonour to his Name.</l>
+               <l>
+                  <pb facs="tcp:61339:5"/>
+That we therefore may hold the mean,</l>
+               <l>to him that made us let us pray:</l>
+               <l>And to his promiſe let us lean,</l>
+               <l>that will'd us in his name to ſay.</l>
+               <l>
+                  <hi>Our Father which art, &amp;c.</hi>
+               </l>
+            </div>
+            <div type="part">
+               <head>Prayer for Evening.</head>
+               <l>BEfore the clear light of the day,</l>
+               <l>by courſe of kind draws to an end,</l>
+               <l>To God devoutly let us pray,</l>
+               <l>that he will keep and us defend:</l>
+               <l>And that all dreams filthy and vain,</l>
+               <l>with fantaſies that night doth bring,</l>
+               <l>May fly far from our heavy Brain,</l>
+               <l>while we by fléep ſeek refreſhing.</l>
+               <l>And that he will our foes ſuppreſs,</l>
+               <l>who ſtill do ſéek us to beguile,</l>
+               <l>So that no manner of wickedneſs</l>
+               <l>have power our bodies to defile.</l>
+               <l>And more beſides, that when we ſleep,</l>
+               <l>he will vouchſafe us wiſhed eaſe:</l>
+               <l>So ſhall we when the day doth péep,</l>
+               <l>his Majeſty with praiſes pleaſe.</l>
+               <l>Now that the Father of all might</l>
+               <l>will grant this for his dear Sons ſake,</l>
+               <l>Let's now be humble in his ſight,</l>
+               <l>as he hath taught, our Prayers make:</l>
+               <l>Saying, <hi>Our Father,</hi> as before.</l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61339:5"/>
+               <head>Grace before Meat.</head>
+               <l>THe Lord that did all things create,</l>
+               <l>for man to ſerve him at his néed,</l>
+               <l>Bleſs all that we do drink or eat,</l>
+               <l>And give it ſtrength our fleſh to féed.</l>
+               <l>For whatſoever ſhall nouriſh indéed,</l>
+               <l>Whether it be good for man or beaſt,</l>
+               <l>Muſt by his great power be bleſt.</l>
+               <l>And ſith we have an inward man,</l>
+               <l>That muſt with in ward food be fed,</l>
+               <l>Which by no means obtain we can,</l>
+               <l>But by him that is heavenly bread,</l>
+               <l>And of all ſpiritual things the head,</l>
+               <l>Let us ſtill féed on him in mind,</l>
+               <l>That gave us fleſh to féed mankind.</l>
+               <l>Thus doing we ſhall run our race</l>
+               <l>Without the want of any food;</l>
+               <l>And at the laſt come to the place</l>
+               <l>That promſ'd was to <hi>Abraham's</hi> brood,</l>
+               <l>And by faith waſht in Chriſt his Blood,</l>
+               <l>Where evermore we ſhall him ſée,</l>
+               <l>That is one God in Perſons Three.</l>
+               <l>O Lord preſerve in health and peace</l>
+               <l>King <hi>Charles,</hi> our moſt gracious King,</l>
+               <l>Thy holy Spirit in him increaſe,</l>
+               <l>That he may be as he hath been,</l>
+               <l>A Sword to cut off Popery clean,</l>
+               <l>That he and we may hold that truth</l>
+               <l>Which he hath loved from his youth.</l>
+               <closer>Amen.</closer>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61339:6"/>
+               <head>Grace after Meat.</head>
+               <l>NOw that you have your bodies fed,</l>
+               <l>with food that féeble fleſh muſt have,</l>
+               <l>Remember that you break your bread,</l>
+               <l>To ſuch as need compels to crave:</l>
+               <l>For God that to us good gifts gave,</l>
+               <l>Would that you ſhould therewith refreſh</l>
+               <l>Such as do lack, and are your fleſh.</l>
+               <l>You are not Lords of that you have,</l>
+               <l>But muſt account of each thing make</l>
+               <l>To him that giveth, when you ask</l>
+               <l>Abundance for his mercies ſake,</l>
+               <l>And would not you ſhould ſee them lack.</l>
+               <l>Be diligent alway therefore,</l>
+               <l>To help the needy with your ſtore:</l>
+               <l>And if you doubt what ſort they be</l>
+               <l>That ſhould relief find at your hand,</l>
+               <l>Among all men look whom you ſee</l>
+               <l>That of your help in need doth ſtand,</l>
+               <l>To be relieved and looſed from band.</l>
+               <l>Them muſt you know to be that ſort</l>
+               <l>That at your hands muſt have comfort.</l>
+               <l>But chiefly ſuch as do profeſs</l>
+               <l>The name of Chriſt unfeignedly,</l>
+               <l>For in them Chriſt is in diſtreſs,</l>
+               <l>And craveth help in miſery,</l>
+               <l>And will repay with uſury</l>
+               <l>All that to him you give or lend,</l>
+               <l>And that in life which ſhall not end.</l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61339:6"/>
+               <head>Grace before Meat.</head>
+               <l>AS to the ſick all pleaſant things</l>
+               <l>have ſtill unſavoury taſte:</l>
+               <l>So ſhall Gods gifts be unto us,</l>
+               <l>if vainly we them waſte.</l>
+               <l>Take heed therefore, ſaith Chriſt our Lord</l>
+               <l>that ſurfeiting ye ſhun:</l>
+               <l>Let not your hearts with banqueting</l>
+               <l>be drown'd and overcome.</l>
+               <l>Receive Gods gifts with giving thanks,</l>
+               <l>and natures weakneſs feed:</l>
+               <l>When you have done, remember thoſe</l>
+               <l>which want and ſtand in need.</l>
+               <l>So ſhall God bleſs and eke increaſe</l>
+               <l>your basket and your ſtore,</l>
+               <l>And give you life in Chriſt our Lord,</l>
+               <l>which lives for evermore.</l>
+            </div>
+            <div type="part">
+               <head>Grace after meat.</head>
+               <l>MAns life preſerved is by food;</l>
+               <l>as God hath well decreed:</l>
+               <l>But on Gods grace and holy word</l>
+               <l>our ſouls muſt daily feed.</l>
+               <l>Through want of food material,</l>
+               <l>the body ſoon will pine:</l>
+               <l>So will the ſoul, if long it lack</l>
+               <l>the ſpiritual food divine.</l>
+               <l>To thee be praiſe (O Father dear)</l>
+               <l>which at this time hath ſent</l>
+               <l>Both for our ſouls and bodies food,</l>
+               <l>thy Children to content. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61339:7"/>
+               <head>Grace after Meat.</head>
+               <l>THanks be to God in heaven above,</l>
+               <l>for he hath fed us well:</l>
+               <l>And we beſéech his gracious love</l>
+               <l>to féed our ſouls as well.</l>
+               <l>Repentance with the fruits thereof</l>
+               <l>that we never forget.</l>
+               <l>Tender (O Lord) thy holy Church,</l>
+               <l>good Rulers in it ſet,</l>
+               <l>And evermore upon <hi>England</hi>
+               </l>
+               <l>thy heavenly grace down ſend,</l>
+               <l>That we may by thy word and truth</l>
+               <l>our ſinfull lives amend.</l>
+               <l>And finally, all ſuch as be</l>
+               <l>afflicted for thy word,</l>
+               <l>Comfort them by the Holy Ghoſt,</l>
+               <l>through Ieſus Chriſt our Lord.</l>
+               <l>
+                  <hi>O Lord preſerve in peace and wealth.</hi>
+               </l>
+               <l>
+                  <hi>Our noble King, and ſend him health. Amen.</hi>
+               </l>
+            </div>
+            <div type="part">
+               <head>Grace before Meat.</head>
+               <l>TO eat and drink doth ſmall avail,</l>
+               <l>the World is all but vain:</l>
+               <l>Except the Lord our hearts do guide,</l>
+               <l>our pleaſures are but pain:</l>
+               <l>Grant us therefore, O Chriſt, that we</l>
+               <l>may all with one accord,</l>
+               <l>Not live to eat, but eat to live,</l>
+               <l>and live to praiſe the Lord. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61339:7"/>
+               <head>Grace before Meat.</head>
+               <p>THe eyes of all things do look up and truſt in thée (O Lord,) thou giveſt them meat in due ſeaſon: thou openeſt thy hand, and filleſt with thy bleſſing every living creature. Good Lord, bleſs us and all the gifts that we receive of thy bounteous liberality, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Grace after Meat.</head>
+               <p>THe God of all power, who hath called from death the great Paſtor of his Shéep, the Lord Ieſus, comfort and defend the flock which he hath redéemed by the Blood of his eternal Teſtament: increaſe the number of true Preach<g ref="char:EOLhyphen"/>ers: repreſs and mitigate the malice of obſtinate Tyrants: enlighten the hearts of the ignorant: releaſe the pains of ſuch as be afflicted, but eſpe<g ref="char:EOLhyphen"/>cially thoſe that ſuffer for the Teſtimony of the Truth; and finally confound Satan by the power of our Lord Ieſus Chriſt. <hi>So be it.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Grace before Meat.</head>
+               <p>CHriſt which at his laſt Supper gave him<g ref="char:EOLhyphen"/>ſelf unto us, promiſing his body to be cruci<g ref="char:EOLhyphen"/>fied, and his blood to be ſhed for our ſins, bleſs us and our meat. <hi>Amen.</hi>
+               </p>
+               <p>The God of peace and love vouchſafe always to dwell with us, and thou Lord have mercy up<g ref="char:EOLhyphen"/>on us.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:61339:8"/>
+               <head>Grace before Meat.</head>
+               <p>GLory, Honour and Praiſe be given to thée, O Lord, which hath fed us from our tender age, and giveſt ſuſtenance to every living thing repleniſh our hearts with joy and gladneſs, that we (always having ſufficient, may be rich and plentiful in all good Works; through our Lord Ieſus Chriſt. <hi>So be it.</hi>
+               </p>
+               <q>
+                  <l>Our King and Queen, O Lord defend.</l>
+                  <l>And bleſs them both, World without end.</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>A Prayer.</head>
+               <p>GOD preſerve our Realm, the Kings Maje<g ref="char:EOLhyphen"/>ſty, with his Royal Ouéen, the honoura<g ref="char:EOLhyphen"/>ble Council, and the Nobility and Commons of the ſame: God aſſiſt the Clergy with his Holy Spirit, in ſetting forth his truth: God defend the Favourers of the Goſpel, and make us all faithful and zealous in the ſame: God change the hearts of our Enemies: The mighty power of God deſtroy Antichriſt with his wicked Kingdom: God ſend the Goſpel a joyful and frée paſſage through the whole World, that every one of us may live godly and uprightly in our vocation and calling, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:61339:8"/>
+            <list>
+               <head>BOoks Printed for <hi>George Conyers,</hi> where Country Chapmen may be fur<g ref="char:EOLhyphen"/>niſhed with all ſorts of Books and Ballads.</head>
+               <item>
+                  <hi>Ornatus</hi> and <hi>Arteſia.</hi>
+               </item>
+               <item>Seven Champions.</item>
+               <item>Seven Wiſe Maſters.</item>
+               <item>Seven Wiſe Miſtreſſes.</item>
+               <item>Long <hi>Meg.</hi>
+               </item>
+               <item>Mad Men of <hi>Gotam.</hi>
+               </item>
+               <item>Parliament of Women.</item>
+               <item>
+                  <hi>Ball</hi>'s Catechiſm.</item>
+               <item>
+                  <hi>Don Quixote.</hi>
+               </item>
+               <item>Book of Riddles.</item>
+               <item>
+                  <hi>Doraſtus</hi> and <hi>Faunia.</hi>
+               </item>
+               <item>Garland of Good-will.</item>
+               <item>Geſta Romanorum.</item>
+               <item>Great Aſſize.</item>
+               <item>
+                  <hi>David</hi>'s Repentance.</item>
+               <item>Gakers Arithmetick.</item>
+               <item>
+                  <hi>David</hi>'s Bleſſed Man.</item>
+               <item>Mothers Bleſſing.</item>
+               <item>Plain Mans Path-way to Heaven.</item>
+               <item>Help to Diſcourſe.</item>
+               <item>
+                  <hi>York</hi>'s Arithmetick.</item>
+               <item>Garden of Spiritual Flowers.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
